@@ -6,6 +6,14 @@ We'll build an agent that connects to a cloud-hosted MCP server. The agent will 
 
 ---
 
+## Checkout
+Azure AI Agent Service MCP Support
+https://github.com/retkowsky/Azure-AIGEN-demos/blob/main/Azure%20Agent%20Service/9%20Azure%20AI%20Agent%20service%20-%20MCP%20support.ipynb
+
+Connect to MCP
+https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/model-context-protocol
+
+
 ## Pre-Req
 
 ### To run locally create a .env file and add the below values in it
